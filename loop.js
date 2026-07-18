@@ -16,8 +16,11 @@
 // for( initialization ; condition ; modification){
 //     repetitive tasks
 // }
-
+let num=0;
 
 for(let count = 0 ; count < 100 ; count++){
-    console.log('do something')
+    console.log(++num)
 }
+
+
+
