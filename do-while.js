@@ -9,4 +9,4 @@ let i = 0;
 do {
     console.log('value of i', i);
     i++;
-} while (i > 5)
+} while (i > 5) 

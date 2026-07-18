@@ -15,4 +15,4 @@ while (count < 10) {
     count++;
 }
 
-console.log('Life masti after break up')
+console.log('Life masti after break up') 

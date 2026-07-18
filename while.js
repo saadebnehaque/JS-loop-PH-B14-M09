@@ -4,8 +4,8 @@
 let i = 1;
 let num = 1;
 while (i < 903) {
-    console.log('inside while loop', num);
     num++;
+    console.log('inside while loop', num);
     i++;
 }
 
